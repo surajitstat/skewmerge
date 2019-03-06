@@ -1,11 +1,11 @@
 Package: skewmerge
 Type: Package
-Title: What the Package Does (Title Case)
+Title: This package merges skew normal components based on modes
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Surajit Ray and Bader Alruwaili
+Maintainer: Surajit Ray <surajit.ray@glasgow.ac.uk>
+Description: Usually the cluster labels are associated with the different components of the mixture, but they may not be separate enough to be labelled as separate cluster. In this chapter we therefore introduce the ridgeline function and the ratio of the ridgeline as tools to find natural grouping in the data by merging the components of  the mixture of multivariate skew normal distribution. In the context of normal mixture the same technique has been used by Hennig (2010) based on the ridgeline elevation plots of Ray and Lindsay (2005).
+
+License: GPL-2
 Encoding: UTF-8
-LazyData: true
+LazyData: TRUE
